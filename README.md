@@ -1,6 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+<h2 align="left">Hello👋! My name is Andressa</h2>
 
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif"  />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+my+profile+;enjoy+the+projects)](https://git.io/typing-svg)
+
+
+<p align="left">I,m a Backend Developer in the process of learning and improving my skills</p>
+
+
+
+
+<img align="right" height="210" src="https://media.tenor.com/BivEgZ7T1KgAAAAC/tom-holland.gif"  />
+
+
 
 ### Technologies and tools:
 
